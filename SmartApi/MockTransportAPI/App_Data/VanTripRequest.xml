@@ -15,7 +15,7 @@
       <driverContactNumber>7209817659</driverContactNumber>
       <shipments>
         <Shipment>
-          <bookingReferenceID>265619</bookingReferenceID>
+          <bookingReferenceID>267375</bookingReferenceID>
           <plannedArrivalTime>2013-04-18T06:00:00</plannedArrivalTime>
           <plannedDepartureTime>2013-04-18T08:00:00</plannedDepartureTime>
           <estimatedArrivalTime>2013-04-18T06:00:00</estimatedArrivalTime>
@@ -25,7 +25,7 @@
           <slotDelay>2013-04-18T06:00:00</slotDelay>
         </Shipment>
         <Shipment>
-          <bookingReferenceID>265619</bookingReferenceID>
+          <bookingReferenceID>267376</bookingReferenceID>
           <plannedArrivalTime>2013-04-18T06:00:00</plannedArrivalTime>
           <plannedDepartureTime>2013-04-18T08:00:00</plannedDepartureTime>
           <estimatedArrivalTime>2013-04-18T06:00:00</estimatedArrivalTime>
